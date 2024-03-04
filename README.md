@@ -128,6 +128,9 @@ DAU = 85.5 M
 Карта расположения ЦОД'ов Google
 <img width="895" alt="image" src="https://github.com/wergit13/highload-google-drive/assets/102697969/ea7f896a-d22f-44d5-b8c7-c331e8445093">
 
+Карта плотности населения
+<img width="895" alt="image" src="https://github.com/wergit13/highload-google-drive/assets/102697969/949f0d94-6f22-4d2d-9341-8b58b2868e64">
+
 Предлагаемое расположение ЦОД'ов для диска
 <img width="895" alt="image" src="https://github.com/wergit13/highload-google-drive/assets/102697969/c07ff675-a601-4453-a5f3-af62e2941db9">
 
