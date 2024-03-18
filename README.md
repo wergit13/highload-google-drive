@@ -157,7 +157,7 @@ DAU = 85.5 M
 
 ## Логическая схема данных
 ### Общая логическая схема
-<img width="1030" alt="image" src="https://github.com/wergit13/highload-google-drive/assets/102697969/d0e0303d-13dc-4f8d-b462-947b86df52b2">
+<img width="1057" alt="image" src="https://github.com/wergit13/highload-google-drive/assets/102697969/6d17a615-4738-4a05-b13a-89dcf342c345">
 
 ### Таблица пользователей
 
