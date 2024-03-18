@@ -157,8 +157,7 @@ DAU = 85.5 M
 
 ## Логическая схема данных
 ### Общая логическая схема
-<img width="1057" alt="image" src="https://github.com/wergit13/highload-google-drive/assets/102697969/a5943774-3d05-4c66-a2c4-f7a89e29515d">
-
+<img width="1030" alt="image" src="https://github.com/wergit13/highload-google-drive/assets/102697969/d0e0303d-13dc-4f8d-b462-947b86df52b2">
 
 ### Таблица пользователей
 
@@ -180,6 +179,7 @@ DAU = 85.5 M
   * parent - родительский файл(для папок)
   * name - имя файла
   * last_changed - дата последнего изменения
+  * last_version - id последней версии
   * created varchar - дата создания
 
 ### Таблица прав доступа
