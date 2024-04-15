@@ -459,6 +459,10 @@ DAU = 85.5 M
 
 ## Схема проекта <a name="9"></a>
 
+![image](https://github.com/wergit13/highload-google-drive/assets/102697969/3d9351c0-d228-4fc4-bbb7-545e2e895278)
+
+В ClickHouse пишут все сервисы, взаимодействуюет с ним тольк Migration Service для анализа логов 
+
 ## Список серверов <a name="10"></a>
 
 
